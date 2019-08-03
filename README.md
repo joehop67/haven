@@ -6,13 +6,14 @@ An excellent tutorial that does a supurb job of explaining the code presented in
 From this tutorial however my entire goal while starting it was to, well, learn C. The only way to do that, however,
 Would be to take this tutorial and to expand on it in my own ways, solving the problems I want to solve and eventually.... Learning C.
 
-As of right now: Version **0.0.1** The code is practically 1-1 with the tutorial. Thus, this is my first commit, my true starting point.
+As of right now: Version **0.1.1** The code is practically 1-1 with the tutorial. Thus, this is my first commit, my true starting point.
 
 You're going to see some ugly, ugly code here, you have been warned.
 
 Currently, the roadmap that I have planned out in my head is below, but this is my project so i'll probably be bouncing all over the place.
 
 ## Current Features
+* Line Numbering!
 * Syntax Highlighting (For C)
 * Find in text
 * Buffered Editing
@@ -29,7 +30,7 @@ These are all features that I would like to extend from the current codebase as 
 * Config file support
 * Plugin support
 * Modal style editing (Vim is #1)
-* Line Numbers
+* ~~line Numbers~~ *DONE*
 * More Syntax Highlighting
 * Anything that seems interesting!
 
